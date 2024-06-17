@@ -1,0 +1,5 @@
+Laptop Elektronika 1500.0 2023-01-01 2000.0
+Smartfon Elektronika 800.0 2023-12-15 1000.0
+Zegarek Akcesoria 300.0 2023-01-05 500.0
+Kuchenka AGD 2000.0 2022-11-21 400.0
+Iphone+15+Pro+Max+1TB Elektronika 1337.0 2023-12-15 333.0
